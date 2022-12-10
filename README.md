@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ```text
 Vue.js       11 hrs 19 mins  █████████▓░░░░░░░░░░░░░░░   39.16 %
-TypeScript   8 hrs 36 mins   ███████▒░░░░░░░░░░░░░░░░░   29.77 %
+TypeScript   8 hrs 36 mins   ███████▒░░░░░░░░░░░░░░░░░   29.76 %
 JavaScript   3 hrs 47 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.12 %
 JSON         2 hrs 13 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.68 %
 Velocity     34 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.00 %
