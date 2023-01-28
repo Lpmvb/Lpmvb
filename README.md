@@ -18,9 +18,12 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-JSON         7 mins          ████████▓░░░░░░░░░░░░░░░░   35.13 %
-Vue.js       7 mins          ████████▓░░░░░░░░░░░░░░░░   34.13 %
-Other        4 mins          █████░░░░░░░░░░░░░░░░░░░░   19.40 %
+Rust         2 hrs 6 mins    ██████████████▓░░░░░░░░░░   59.23 %
+TOML         29 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.65 %
+JSON         18 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.82 %
+CSS          15 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.16 %
+Vue.js       7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 %
+JavaScript   4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.04 %
 ```
 
 <!--END_SECTION:waka-->
