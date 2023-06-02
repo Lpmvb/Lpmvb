@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 
-```text
+```txt
 Vue.js       7 hrs 55 mins   ████████████▓░░░░░░░░░░░░   50.35 %
 TypeScript   4 hrs 39 mins   ███████▒░░░░░░░░░░░░░░░░░   29.56 %
 JavaScript   1 hr 59 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.60 %
