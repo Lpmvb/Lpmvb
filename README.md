@@ -18,7 +18,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-YAML   11 mins         █████████████████████████   100.00 %
+SSH Key      13 mins         ████████████░░░░░░░░░░░░░   47.72 %
+YAML         11 mins         █████████▓░░░░░░░░░░░░░░░   38.70 %
+Other        2 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.85 %
+JSON         1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 %
+Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 %
 ```
 
 <!--END_SECTION:waka-->
