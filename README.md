@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-SSH Key      13 mins         ███████▒░░░░░░░░░░░░░░░░░   29.91 %
-TypeScript   12 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.39 %
-Other        7 mins          ████░░░░░░░░░░░░░░░░░░░░░   15.50 %
-JSON         5 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   12.80 %
-Bash         2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.76 %
+SSH Key      13 mins         ███████▒░░░░░░░░░░░░░░░░░   28.88 %
+TypeScript   12 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.47 %
+JSON         7 mins          ████░░░░░░░░░░░░░░░░░░░░░   15.81 %
+Other        7 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.97 %
+Bash         2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 %
 ```
 
 <!--END_SECTION:waka-->
