@@ -18,9 +18,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-JSON         2 mins          ██████████████████████░░░   87.85 %
-TypeScript   0 secs          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.38 %
-YAML         0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.77 %
+JSON         1 min           ███████████████░░░░░░░░░░   59.77 %
+TypeScript   0 secs          ███████░░░░░░░░░░░░░░░░░░   28.07 %
+Other        0 secs          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.38 %
+JavaScript   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.74 %
+YAML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 %
 ```
 
 <!--END_SECTION:waka-->
