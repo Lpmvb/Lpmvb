@@ -18,10 +18,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-YAML          16 mins         █████████████████░░░░░░░░   67.74 %
-Bash          3 mins          ████░░░░░░░░░░░░░░░░░░░░░   15.48 %
-Objective-C   3 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.35 %
-Perl          0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.42 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
